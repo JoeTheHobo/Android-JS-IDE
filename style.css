@@ -1,0 +1,11 @@
+body {
+    margin: 0px;
+    overflow: hidden;
+}
+#bubbles {
+    background: rgb(65, 73, 75);
+    width: 100%;
+    height: 40%;
+    position: absolute;
+    bottom: 0px;
+}
